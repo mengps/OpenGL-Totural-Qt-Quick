@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>GLSL/fragment_glsl.frag</file>
+        <file>GLSL/fragment_glsl_es.frag</file>
+        <file>GLSL/vertex_glsl.vert</file>
+        <file>GLSL/vertex_glsl_es.vert</file>
+    </qresource>
+</RCC>
