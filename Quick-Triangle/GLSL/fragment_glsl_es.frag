@@ -8,7 +8,7 @@ varying vec3 color;
 //! [0]
 void main()
 {
-    gl_FragColor = vec4(color, 0.7);
+    gl_FragColor = vec4(color, 1.0);
 }
 //! [0]
 

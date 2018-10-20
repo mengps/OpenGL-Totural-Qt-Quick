@@ -2,6 +2,22 @@
 
 ### OpenGL系列教程 Qt/Quick版源码
 
+------
+
+
+Quick-Triangle
+
+旋转的三角形
+------
+
+
+Quick-Cube
+
+手动旋转的立方体
+------
+
+
+
 使用Qt/Quick开发
 
 开发环境windows 7，Qt 5.11.0
