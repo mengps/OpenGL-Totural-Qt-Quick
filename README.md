@@ -21,7 +21,7 @@ Quick-Triangle
 
 Quick-Cube
 
-手动旋转的立方体
+可以自由旋转的立方体
 
 ------
 
