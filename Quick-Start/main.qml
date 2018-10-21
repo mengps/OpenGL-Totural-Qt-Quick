@@ -5,7 +5,7 @@ import an.OpenGLItem 1.0
 Window
 {
     visible: true
-    width: Qt.platform.os == "android" ? Screen.desktopAvailableWidth  : 640;
+    width: Qt.platform.os == "android" ? Screen.desktopAvailableWidth  : 640
     height: Qt.platform.os == "android" ? Screen.desktopAvailableHeight : 480
 
     title: qsTr("MPS Opengl Qt/Quick 教程(0)!")
