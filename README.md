@@ -21,7 +21,7 @@ Quick-Triangle
 
 Quick-Cube
 
-可以自由旋转的立方体
+自由旋转的立方体
 
 ------
 
